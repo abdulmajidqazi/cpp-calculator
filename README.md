@@ -42,7 +42,7 @@ A simple **console-based calculator** built in **C++** that performs basic arith
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/abdulmajidqazi/cpp-calculator.git
 ```
 
 2. Navigate to the project folder:
@@ -110,5 +110,7 @@ This project is open-source and available under the **MIT License**.
 ## 👨‍💻 Author
 
 **Abdul Majid Qazi**
+
+GitHub: https://github.com/abdulmajidqazi
 
 If you found this project helpful, consider giving it a ⭐ on GitHub!

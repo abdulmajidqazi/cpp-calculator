@@ -111,6 +111,6 @@ This project is open-source and available under the **MIT License**.
 
 **Abdul Majid Qazi**
 
-GitHub: https://github.com/abdulmajidqazi
+🌐 GitHub: [abdulmajidqazi](https://github.com/abdulmajidqazi)
 
 If you found this project helpful, consider giving it a ⭐ on GitHub!

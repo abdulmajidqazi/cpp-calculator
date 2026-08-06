@@ -48,7 +48,7 @@ git clone https://github.com/abdulmajidqazi/cpp-calculator.git
 2. Navigate to the project folder:
 
 ```bash
-cd your-repository
+cd cpp-calculator
 ```
 
 3. Compile the program:
@@ -78,7 +78,7 @@ calculator.exe
 
 ---
 
-## 🎯 Learning Objectives
+## 🎯 Concepts Demonstrated
 
 This project demonstrates:
 

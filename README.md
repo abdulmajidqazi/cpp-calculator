@@ -74,7 +74,7 @@ calculator.exe
 ---
 
 ## 📸 Sample Output
-![C++ Output](output.png)
+![C++ Output](cal-output.png)
 
 ---
 
